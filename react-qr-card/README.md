@@ -50,7 +50,7 @@ It's important to note that the card layout does not shift, which makes it an id
 
 - Solution URL: [Add solution URL here]([J4Web/FrontendMentor-Qr-Challenge: Frontend Mentor QR code component challenge. (github.com)](https://github.com/J4Web/FrontendMentor-Qr-Challenge))
 
-- Live Site URL: [Demo-Link](https://j4web.github.io/FrontendMentor-Qr-Challenge/)
+- Live Site URL: [Demo-Link](https://thunderous-medovik-0f112e.netlify.app/)
 
   
 
