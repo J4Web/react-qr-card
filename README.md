@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
 
-- [Screenshot](#screenshot)
-
 - [Links](#links)
 
 - [My process](#my-process)
@@ -33,16 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 The card layout should be visually appealing and well-structured. 
 It's important to note that the card layout does not shift, which makes it an ideal exercise for beginners who are still learning about building responsive designs.
   
-
-### Screenshot
-
-  Here is the final result of the challenge - 
-
-
-![](images/final_qr.png)
-
-  
-
 
 
 ### Links
