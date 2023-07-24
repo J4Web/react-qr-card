@@ -3,6 +3,7 @@ body{
   padding: 0;
   box-sizing: border-box;
   font-family: 'Outfit', sans-serif;
+  
 
 }
 .parent{
@@ -11,18 +12,24 @@ body{
   justify-content: center;
   min-height: 100vh;
   background-color: hsl(212, 45%, 89%);
+  overflow: auto;
+  flex: 1;
 }
 
 .card{
   border: 1px black solid;
   background-color: hsl(0, 0%, 100%);
   border-radius: 5%;
+  max-width: 350px;
+  height: auto;
+  margin: 1rem;
 }
 
 .qr-card{
-  width: 15.1rem;
-  margin: 2rem;
+  /* width: 18rem; */
+  margin: 1.8rem;
   text-align: center;
+  overflow: auto;
 }
 .qr-card > img{
   width: 100%;
@@ -35,14 +42,16 @@ body{
 }
 .qr-card > p{
   font-weight: 400;
-  font-size: 15px;
+  font-size: 16px;
   color: hsl(220, 15%, 55%);
 }
 
 .attribution{
   position: fixed;
-  bottom:0;
-  padding: 1rem;
+  text-align: center;
+  bottom: 0;
+  top: 100;
+    padding: 1rem;
   font-size: 15px;
-
 }
+
